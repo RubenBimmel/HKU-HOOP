@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OrcsDwarves", "OrcsDwarves\OrcsDwarves.vcxproj", "{78E52B83-C941-462E-91E3-834DE0F1C6A1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Templates", "Templates\Templates.vcxproj", "{237A53AC-FF3B-495A-BFA3-BFCF67088D4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{78E52B83-C941-462E-91E3-834DE0F1C6A1}.Release|x64.Build.0 = Release|x64
 		{78E52B83-C941-462E-91E3-834DE0F1C6A1}.Release|x86.ActiveCfg = Release|Win32
 		{78E52B83-C941-462E-91E3-834DE0F1C6A1}.Release|x86.Build.0 = Release|Win32
+		{237A53AC-FF3B-495A-BFA3-BFCF67088D4A}.Debug|x64.ActiveCfg = Debug|x64
+		{237A53AC-FF3B-495A-BFA3-BFCF67088D4A}.Debug|x64.Build.0 = Debug|x64
+		{237A53AC-FF3B-495A-BFA3-BFCF67088D4A}.Debug|x86.ActiveCfg = Debug|Win32
+		{237A53AC-FF3B-495A-BFA3-BFCF67088D4A}.Debug|x86.Build.0 = Debug|Win32
+		{237A53AC-FF3B-495A-BFA3-BFCF67088D4A}.Release|x64.ActiveCfg = Release|x64
+		{237A53AC-FF3B-495A-BFA3-BFCF67088D4A}.Release|x64.Build.0 = Release|x64
+		{237A53AC-FF3B-495A-BFA3-BFCF67088D4A}.Release|x86.ActiveCfg = Release|Win32
+		{237A53AC-FF3B-495A-BFA3-BFCF67088D4A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
