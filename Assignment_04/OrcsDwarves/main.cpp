@@ -14,7 +14,7 @@ int main()
 {
 	NPC* elwan = new Dwarve("Elwan");
 	NPC* hakraldra = new Farmer(new Orc("Hakraldra"));
-	NPC* mowkim = new Soldier(new Mage(new Dwarve("Mowkim")));
+	NPC* mowkim = new Soldier(new Shaman(new Dwarve("Mowkim")));
 
 	elwan->IntroduceYourself();
 	std::cout << std::endl;
